@@ -19,11 +19,11 @@ This Python script offers a comprehensive solution for building a word dictionar
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/text-analysis-search-engine.git
+   git clone [https://github.com/yourusername/text-analysis-search-engine.git](https://github.com/ZainMirza-2004/DocSearch.git)
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Doc-Search
+   cd DocSearch
    ```
 3. Install dependencies:
    ```bash
